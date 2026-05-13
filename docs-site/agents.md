@@ -392,8 +392,3 @@ graph TD
 ```
 
 ---
-
-## 📖 参考
-
-- 完整文档: [AGENTS.md](../../AGENTS.md)
-- 源码: `/home/hermes/opensource/ruflo/`
