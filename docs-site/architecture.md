@@ -341,13 +341,7 @@ class AgentCoordinator {
     └── inventory.json       # 工具清单
 ```
 
-### B. 相关文档
-
-- [AGENTS.md](../AGENTS.md) — Agent 类型和角色定义
-- [USERGUIDE.md](../docs/USERGUIDE.md) — 完整用户指南
-- [SECURITY.md](../SECURITY.md) — 安全策略
-
-### C. ADR 索引
+### B. ADR 索引
 
 | ADR | 标题 | 状态 |
 |-----|------|------|
